@@ -85,3 +85,12 @@ h4 {
 h3, h5 {
     color: #f2a365;
 }
+
+
+footer {
+    text-align: center;
+    color: #686868;
+    font-weight: normal;
+    margin-bottom: 15px;
+    font-size: 12px;
+  }
